@@ -1,0 +1,84 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title> The kind kitchen</title>
+      <link>www.example.com/blog</link>
+      <description>just here to share what do i care </description>
+      <language>en-us</language>
+      <managingEditor> (Abhinav)</managingEditor>
+      <webMaster> (Abhinav)</webMaster>
+      <lastBuildDate>Fri, 24 Jun 2022 18:30:00 GMT</lastBuildDate>
+      <atom:link href="www.example.com/feed.xml" rel="self" type="application/rss+xml"/>
+      
+    <item>
+      <guid>www.example.com/blog/dhd</guid>
+      <title>patanhiiiiiiiiiiiiiin</title>
+      <link>www.example.com/blog/dhd</link>
+      <description>&lt;img src=&quot;https://images.pexels.com/photos/1143754/pexels-photo-1143754.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;nffonooenfnvenovnelntbnfjfbfjbfjfbfjbjvbjvjvbvbjldvbjlfbvlvjnncidvnifenvieeeeeeeeeeeeeeeeeeeeeeefdbfdljbvjlvbf ld djbjs ljf &lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 24 Jun 2022 18:30:00 GMT</pubDate>
+      <author> (Abhinav)</author>
+      <category>hhrhr</category><category>random</category><category>markdown</category>
+    </item>
+  
+    <item>
+      <guid>www.example.com/blog/heee</guid>
+      <title>lol </title>
+      <link>www.example.com/blog/heee</link>
+      <description>&lt;img src=&quot;https://images.unsplash.com/photo-1505252585461-04db1eb84625?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=408&amp;q=80&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;nffonooenfnvenovnelntbnfjfbfjbfjfbfjbjvbjvjvbvbjldvbjlfbvlvjfdbfdljbvjlvbf l jbjsljf &lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 24 Jun 2022 18:30:00 GMT</pubDate>
+      <author> (Abhinav)</author>
+      <category>hhrhr</category><category>hehe</category><category>markdown</category>
+    </item>
+  
+    <item>
+      <guid>www.example.com/blog/hm</guid>
+      <title>oneinnfignikn</title>
+      <link>www.example.com/blog/hm</link>
+      <description>&lt;img src=&quot;https://images.pexels.com/photos/1143754/pexels-photo-1143754.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;nffonooenfnvenovnelntbnfjfbfjbfjfbfjbjvbjvjvbvbjldvbjlfbvlvjnncidvnifenvieeeeeeeeeeeeeeeeeeeeeeefdbfdljbvjlvbf ld djbjs ljf &lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 24 Jun 2022 18:30:00 GMT</pubDate>
+      <author> (Abhinav)</author>
+      <category>hhrhr</category><category>random</category><category>markdown</category>
+    </item>
+  
+    <item>
+      <guid>www.example.com/blog/jdd</guid>
+      <title>random third party</title>
+      <link>www.example.com/blog/jdd</link>
+      <description>&lt;img src=&quot;https://images.pexels.com/photos/248509/pexels-photo-248509.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=600&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;sssssssummmmmmmmmmmmarrrrrrrrrrrrrryyyyyyyyyyys ljf&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 24 Jun 2022 18:30:00 GMT</pubDate>
+      <author> (Abhinav)</author>
+      <category>hhrhr</category><category>markdown</category>
+    </item>
+  
+    <item>
+      <guid>www.example.com/blog/lol</guid>
+      <title>lol </title>
+      <link>www.example.com/blog/lol</link>
+      <description>&lt;img src=&quot;https://images.unsplash.com/photo-1505252585461-04db1eb84625?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=408&amp;q=80&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;nffonooenfnvenovnelntbnfjfbfjbfjfbfjbjvbjvjvbvbjldvbjlfbvlvjfdbfdljbvjlvbf ld djbjs ljf &lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 24 Jun 2022 18:30:00 GMT</pubDate>
+      <author> (Abhinav)</author>
+      <category>hhrhr</category><category>hehe</category><category>markdown</category>
+    </item>
+  
+    <item>
+      <guid>www.example.com/blog/new</guid>
+      <title>mew party</title>
+      <link>www.example.com/blog/new</link>
+      <description>&lt;img src=&quot;https://images.pexels.com/photos/248509/pexels-photo-248509.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=600&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;sssssssummmmmmmmmmmmarrrrrrrrrrrrrryyyyyyyyyyys ljf&lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 24 Jun 2022 18:30:00 GMT</pubDate>
+      <author> (Abhinav)</author>
+      <category>hhrhr</category><category>markdown</category>
+    </item>
+  
+    <item>
+      <guid>www.example.com/blog/new3</guid>
+      <title>oneinnfignikn</title>
+      <link>www.example.com/blog/new3</link>
+      <description>&lt;img src=&quot;https://images.pexels.com/photos/1143754/pexels-photo-1143754.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1&quot; width=&quot;800&quot;&gt;&lt;p&gt;&lt;small&gt;nffonooenfnvenovnelntbnfjfbfjbfjfbfjbjvbjvjvbvbjldvbjlfbvlvjnncidvnifenvieeeeeeeeeeeeeeeeeeeeeeefdbfdljbvjlvbf ld djbjs ljf &lt;/small&gt;&lt;/p&gt;</description>
+      <pubDate>Fri, 24 Jun 2022 18:30:00 GMT</pubDate>
+      <author> (Abhinav)</author>
+      <category>hhrhr</category><category>random</category><category>markdown</category>
+    </item>
+  
+    </channel>
+  </rss>
